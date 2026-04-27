@@ -293,7 +293,7 @@
 "Bastion|bastion|Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.|2|16 Armor & MR|4|35 Armor & MR|6|55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR.||||"
 Brawler|brawler|Your team gains 7% Health. Brawlers gain more.|2|25% maximum Health|4|45% maximum Health|6|65% maximum Health||||
 "Challenger|challenger|Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.|2|15% AS|3|22% AS|4|30% AS|5|40% AS||"
-"Conduit|channeler|Conduits gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Conduits.|2|1% Mana Regen | 3% Mana Regen|3|1% Mana Regen | 4% Mana Regen|4|2% Mana Regen | 6% Mana Regen|5|2% Mana Regen | 7% Mana Regen||"
+"Conduit|channeler|Conduits gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Conduits.|2|1% Mana Regen & 3% Mana Regen|3|1% Mana Regen & 4% Mana Regen|4|2% Mana Regen & 6% Mana Regen|5|2% Mana Regen & 7% Mana Regen||"
 Eradicator|eradicator|Enemies have 14% less Armor and Magic Resist.||||||||||
 Fateweaver|fateweaver|Fateweavers have Precision.|2|Chance effects on abilities are Lucky.|4|Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky.||||||
 "Marauder|marauder|Your team gains 5% Omnivamp. Marauders gain more Omnivamp, Attack Damage, and their Omnivamp overhealing is converted into Shield (up to 25% max Health.)|2|5% Omnivamp, 20% AD|4|7% Omnivamp, 30% AD|6|10% Omnivamp, 40% AD||||"
