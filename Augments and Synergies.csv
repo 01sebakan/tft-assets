@@ -290,7 +290,7 @@
 "289|Wise Spending|3|wise-spending|You can no longer buy XP. Every time you spend gold to reroll your Shop, gain 2 XP. Gain 3 gold now."
 290|Worth the Wait II|3|worth-the-wait-ii|Gain 2 copies of a random 2-cost champion. Gain another copy of them at the start of each round for the rest of the game.
 "Synergies (name,slug,effect,units1,bonus1,units2,bonus2,units3,bonus3,units4,bonus4,units5,bonus5)"
-"Bastion|bastion|Your team gains 12 Armor and Magic Resist.Bastions gain more, and the value doubles in the first 10 seconds of combat.|2|16 Armor & MR|4|35 Armor & MR|6|55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR.||||"
+"Bastion|bastion|Your team gains 12 Armor and Magic Resist. Bastions gain more, and the value doubles in the first 10 seconds of combat.|2|16 Armor & MR|4|35 Armor & MR|6|55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR.||||"
 Brawler|brawler|Your team gains 7% Health. Brawlers gain more.|2|25% maximum Health|4|45% maximum Health|6|65% maximum Health||||
 "Challenger|challenger|Your team gains 10% Attack Speed. Challengers gain bonus Attack Speed. When their target dies, Challengers dash to a new target and increase their Attack Speed bonus by 50% for 2.50 seconds.|2|15% AS|3|22% AS|4|30% AS|5|40% AS||"
 "Conduit|conduit|Conduits gain 20% additional Mana from all sources. Your team gains Mana Regen, increased for Conduits.|2|1% Mana Regen | 3% Mana Regen|3|1% Mana Regen | 4% Mana Regen|4|2% Mana Regen | 6% Mana Regen|5|2% Mana Regen | 7% Mana Regen||"
